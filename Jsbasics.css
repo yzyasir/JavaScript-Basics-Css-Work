@@ -1,0 +1,63 @@
+h1 { 
+    color: silver;
+    background-color: rgb(204, 46, 46);
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.home {
+    list-style-type: none;
+}
+
+#navmenu {
+    background-color: rgb(2, 139, 139);
+    padding: 20px;
+    border-radius: 15px;
+    color: white;
+    margin: 10px;
+}
+
+body {
+    background-color: rgb(12, 69, 134)
+    
+}
+
+#jsobjects {
+    background-color: rgb(5, 5, 39);
+    border-radius: 15px;
+    color: white;
+    padding-top: 3px;
+    padding-bottom: 15px;
+}
+
+.moreinfo {
+    color: lightblue;
+    background-color: gray;
+    display: block;
+    padding: 15px;
+    border-radius: 15px;
+    clear: both;
+}
+
+a {
+    color: rgb(0, 225, 255);
+}
+em {
+    color: rgba(187, 187, 238, 0.774);
+}
+
+.sidenav {
+    float: left;
+    width: 10%;
+}
+
+.main {
+    float: left;
+    width: 90%;
+}
+
+.wrapping {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
